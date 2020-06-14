@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("hello word+2020年6月14日 13:48:00");
+		System.out.println("hello word+2020年6月14日 13:48:00a");
 	}
 
 
